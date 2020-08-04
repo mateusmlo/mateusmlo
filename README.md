@@ -32,4 +32,4 @@ And also a Node.js developer :computer:
  <br/> - Pronouns: He/Him || They/Them
  <br/> - :calling: You can find me on Telegram @ mateusmlo, or e-mail me.
  <br/> - I'm still not contributing but will do once I'm comfortable enough with my skills.
- <br/> [![Gmail Badge](https://img.shields.io/badge/-mateus.mlo95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateus.mlo95@gmail.com)](mailto:mateus.mlo95@gmail.com)
+ <br/><br/> [![Gmail Badge](https://img.shields.io/badge/-mateus.mlo95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateus.mlo95@gmail.com)](mailto:mateus.mlo95@gmail.com)
