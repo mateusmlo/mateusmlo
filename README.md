@@ -30,6 +30,6 @@ And also a Node.js developer :computer:
  <br/> - :beer:, :tea: and :coffee: will always be on my desk. Not always at the same time.
  <br/> - :octocat: ← Look at this boy. Isn't he the cutest thing?
  <br/> - Pronouns: He/Him || They/Them
- <br/> - :calling: You can find me on Telegram @ mateusmlo, or e-mail me.
+ <br/> - :calling: You can find me on Telegram @ mateusmlo, on Discord @ Bocchi#0681, or e-mail me.
  <br/> - I'm still not contributing but will do once I'm comfortable enough with my skills.
  <br/><br/> [![Gmail Badge](https://img.shields.io/badge/-mateus.mlo95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateus.mlo95@gmail.com)](mailto:mateus.mlo95@gmail.com)
