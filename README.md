@@ -17,5 +17,5 @@ And also a Node.js developer :computer:
 * Aiming to give GraphQL the love it deserves.
 * :beer:, :tea: and :coffee: will always be on my desk. Not always at the same time.
 * :octocat: ← Look at this smol boy. Isn't he the cutest thing?
-* Sometimes I write stuff on [Medium](https://medium.com/@mateusmlo) in either PT-BR || EN.
+* Sometimes I write stuff on [Medium](https://medium.com/@mateusmlo) in either PT-BR || EN about mental health and tech.
 * :calling: You can find me @: [Telegram](https://t.me/mateusmlo), Discord @ Bocchi#0681, or look at the sidebar for a few more places.
