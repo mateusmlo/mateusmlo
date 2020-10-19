@@ -6,7 +6,7 @@ And also a Node.js developer :computer:
 * **Name**: Mateus Oliveira
 * **Age**: 25
 * **Lives in**: São Paulo, BR
-* **Stack**: Node.js / MongoDB / Express / REST / React (still very early on this one!)
+* **Stack**: Node.js / MongoDB / Express || Nest / REST / React (still very early on this one!)
 
 ## Funfacts
 * Earlier this year I worked on Proffy, a fictional platform that helps teachers and students to conect during such difficult times (developed with the help of [Rocketseat](https://rocketseat.com.br)). It's not operational though!
