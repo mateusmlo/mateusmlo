@@ -8,13 +8,13 @@ And also a Node.js developer :computer:
 * **Lives in**: São Paulo, BR
 * **Stacks**: { \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: NodeJS(Express, NestJS), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(MongoDB) || SQL(Postgres, SQLite), \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(MongoDB) && SQL(Postgres, SQLite), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(SemanticUI, Bootstrap) \
  }
 
 ## Funfacts
-* This document is always a WIP.
+* This document is always a WIP, expect to see something new every once in a while.
 * Many of my projects come from MOOCs but they are far from being 1:1 copies, since I refactor, simplify and modernize the code sometimes rewriting almost everything from scratch.
 * I'm currently learning back-end development and will be uploading several projects along the way.
 * I love functional programming and try to apply concepts whenever possible; expect to see immutable structures and zero *for loops* in my codes (yes I have yet to use Ramda). <del>The academic and advanced stuff still scares me though.</del>
