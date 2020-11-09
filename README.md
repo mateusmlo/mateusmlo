@@ -11,7 +11,7 @@ And also a Node.js developer :computer:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(MongoDB) && SQL(Postgres, SQLite), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(SemanticUI, Bootstrap), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: focusing(GraphQL, SQL, NestJS), React
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: focusing(GraphQL, SQL, NestJS), React \
  }
 
 ## Funfacts
