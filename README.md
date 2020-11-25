@@ -8,10 +8,11 @@ And also a Node.js developer :computer:
 * **Lives in**: São Paulo, BR
 * **Stacks**: { \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: NodeJS(Express, NestJS), \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **microservices**: Redis(Bull), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(MongoDB) && SQL(Postgres, SQLite, MySQL), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST || GraphQL, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(SemanticUI, Bootstrap), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: focusing(GraphQL, SQL, NestJS), React \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: focusing(GraphQL, SQL, NestJS) \
  }
 
 ## Funfacts
