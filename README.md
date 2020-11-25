@@ -24,3 +24,8 @@ And also a Node.js developer :computer:
 * :beer:, :tea: and :coffee: will always be on my desk. Not always at the same time.
 * Sometimes I write stuff on [Medium](https://medium.com/@mateusmlo) in either PT-BR || EN about mental health and tech.
 * :calling: You can find me @: [Telegram](https://t.me/mateusmlo), Discord @ Bocchi#0681, or look at the sidebar for a few more places.
+
+## Stats
+
+![Mateus' github stats](https://github-readme-stats.vercel.app/api?username=mateusmlo&theme=synthwave&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmlo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
