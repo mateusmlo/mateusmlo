@@ -9,7 +9,7 @@ And also a Node.js developer :computer:
 * **Stacks**: { \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: NodeJS, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **microservices**: Redis, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL && SQL, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL || SQL, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST || GraphQL, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(basic), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: focus(GraphQL, SQL, NestJS) \
