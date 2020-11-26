@@ -7,12 +7,12 @@ And also a Node.js developer :computer:
 * **Age**: 25
 * **Lives in**: São Paulo, BR
 * **Stacks**: { \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: NodeJS(Express, NestJS), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **microservices**: Redis(Bull), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(MongoDB) && SQL(Postgres, SQLite, MySQL), \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: NodeJS, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **microservices**: Redis, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL && SQL, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST || GraphQL, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(SemanticUI, Bootstrap), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: focusing(GraphQL, SQL, NestJS) \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(basic), \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: focus(GraphQL, SQL, NestJS) \
  }
 
 ## Funfacts
