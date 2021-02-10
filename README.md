@@ -7,18 +7,18 @@ And also a Node.js developer :computer:
 * **Age**: 25
 * **Lives in**: São Paulo, BR
 * **Stacks**: { \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: NodeJS, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: NodeJS, PHP(basic), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **microservices**: Redis, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL || SQL, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(mongodb) || SQL(postgres, sqlite, mysql), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST || GraphQL, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(basic), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: focus(GraphQL, SQL, NestJS) \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(bootstrap), \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: focus(React) \
  }
 
 ## Funfacts
 * This document is always a WIP, expect to see something new every once in a while.
 * Many of my projects come from MOOCs but they are far from being 1:1 copies, since I refactor, simplify and modernize the code sometimes rewriting almost everything from scratch.
-* I'm currently learning back-end development and will be uploading several projects along the way.
+* I know lots of things on either front or back-end, but I do not aim to be full-stack and my current theoretical knowledge is far ahead of the practical. This is changing day by day however.
 * I love functional programming and try to apply concepts whenever possible; expect to see immutable structures and zero *for loops* in my codes (yes I have yet to use Ramda). <del>The academic and advanced stuff still scares me though.</del>
 * On the other hand I don't really like Object Oriented Programming (this might change).
 * Aiming to give GraphQL the love it deserves.
