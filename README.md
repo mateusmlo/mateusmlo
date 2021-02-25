@@ -18,7 +18,7 @@ And also a Node.js developer :computer:
 ## Funfacts
 * This document is always a WIP, expect to see something new every once in a while.
 * Many of my projects come from MOOCs but they are far from being 1:1 copies, since I refactor, simplify and modernize the code sometimes rewriting almost everything from scratch.
-* I know lots of things on both front and back-end, but I do not aim to be full-stack and my current theoretical knowledge is far ahead of the practical. This is changing day by day however.
+* I know lots of things on both front and back-end, but I do not aim to be full-stack and my current technical knowledge is far ahead of the practical. This is changing day by day however.
 * I love functional programming and try to apply concepts whenever possible; expect to see immutable structures and zero *for loops* in my codes (yes I have yet to use Ramda). <del>The academic and advanced stuff still scares me though.</del>
 * On the other hand I don't really like Object Oriented Programming (this might change).
 * Aiming to give GraphQL the love it deserves.
