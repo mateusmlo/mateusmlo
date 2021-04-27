@@ -1,6 +1,6 @@
 ## Hello there 👋
 I'm a tech junkie who loves to learn, code and discover new things every day! \
-And also a WebDeveloper\<T>\, specializing in Node.js :computer:
+Also a WebDeveloper\<T>\, specializing in Node.js :computer:
 
 ## About me
 * **Name**: Mateus Oliveira
@@ -17,13 +17,11 @@ And also a WebDeveloper\<T>\, specializing in Node.js :computer:
 
 ## Funfacts
 * This document is always a WIP, expect to see something new every once in a while.
-* Many of my projects come from MOOCs but they are far from being 1:1 copies, since I refactor, simplify and modernize the code sometimes rewriting almost everything from scratch.
 * I know lots of things on both front and back-end, but I do not aim to be full-stack and my current technical knowledge is far ahead of the practical. This is changing day by day however.
-* I love functional programming and try to apply concepts whenever possible; expect to see immutable structures and zero *for loops* in my codes (yes I have yet to use Ramda). <del>The academic and advanced stuff still scares me.</del>
-* On the other hand I don't really like Object Oriented Programming (this might change).
+* I love functional programming and try to apply concepts whenever possible; expect to see immutable structures and zero *for loops* in my codes. <del>The academic and advanced stuff still scares me.</del>
 * Aiming to give GraphQL the love it deserves.
 * :beer:, :tea: and :coffee: will always be on my desk. Not always at the same time.
-* Sometimes I write stuff on [Medium](https://medium.com/@mateusmlo) in either PT-BR || EN about mental health and tech.
+* Sometimes I write stuff on [My blog](http://mmlocafe.web-blog.tech/) in either PT-BR || EN about mental health, personal stuff and tech.
 * :calling: You can find me @: [Telegram](https://t.me/mateusmlo), Discord @ Bocchi#0681, or look at the sidebar for a few more places.
 
 ## Stats
