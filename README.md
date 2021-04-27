@@ -1,6 +1,6 @@
 ## Hello there 👋
 I'm a tech junkie who loves to learn, code and discover new things every day!
-And also a Node.js developer :computer:
+And also a WebDeveloper<T>, specializing in Node.js :computer:
 
 ## About me
 * **Name**: Mateus Oliveira
@@ -12,7 +12,7 @@ And also a Node.js developer :computer:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(mongodb) || SQL(postgres, sqlite, mysql), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST || GraphQL, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(class, functional(hooks)), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: focus(React), AWS \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: focus(React, Next), AWS \
  }
 
 ## Funfacts
