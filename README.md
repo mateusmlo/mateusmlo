@@ -1,5 +1,5 @@
 ## Hello there 👋
-I'm a tech junkie who loves to learn, code and discover new things every day!
+I'm a tech junkie who loves to learn, code and discover new things every day! \
 And also a WebDeveloper\<T>\, specializing in Node.js :computer:
 
 ## About me
