@@ -7,7 +7,7 @@ Also a WebDeveloper\<T>\, specializing in Node.js :computer:
 * **Age**: 25
 * **Lives in**: São Paulo, BR
 * **Stacks**: { \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: NodeJS(Express, Nest), PHP(basic), \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: NodeJS(Express, Nest), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **microservices**: Redis, Bull, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(mongodb) || SQL(postgres, sqlite, mysql), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST || GraphQL, \
