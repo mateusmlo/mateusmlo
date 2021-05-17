@@ -3,7 +3,7 @@
 
 
 I'm a tech junkie who loves to learn, code and discover new things every day! \
-Also a WebDeveloper\<T>\, specializing in Node.js :computer: and a Warrior of Light in my free time 🌟
+Also a WebDeveloper\<T>\ specializing in Cloud Computing, Back-end :computer: and being a Warrior of Light in my free time 🌟
 
 ## About me
 * **Name**: Mateus Oliveira
@@ -15,7 +15,7 @@ Also a WebDeveloper\<T>\, specializing in Node.js :computer: and a Warrior of Li
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(mongodb) || SQL(postgres, sqlite, mysql), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST || GraphQL, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(class, functional(hooks)), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: focus(React, Next), AWS \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: React, Next, AWS \
  }
 
 ## Funfacts
