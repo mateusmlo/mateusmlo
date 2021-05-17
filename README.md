@@ -3,7 +3,7 @@
 
 
 I'm a tech junkie who loves to learn, code and discover new things every day! \
-Also a WebDeveloper\<T>\ specializing in Cloud Computing, Back-end :computer: and being a Warrior of Light in my free time 🌟
+Also a WebDeveloper\<T> specializing in Cloud Computing, Back-end :computer: and being a Warrior of Light in my free time 🌟
 
 ## About me
 * **Name**: Mateus Oliveira
