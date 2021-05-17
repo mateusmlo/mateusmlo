@@ -1,6 +1,6 @@
 ## Hello there 👋
 I'm a tech junkie who loves to learn, code and discover new things every day! \
-Also a WebDeveloper\<T>\, specializing in Node.js :computer:
+Also a WebDeveloper\<T>\, specializing in Node.js :computer: and a Warrior of Light in my free time 🌟
 
 ## About me
 * **Name**: Mateus Oliveira
@@ -28,3 +28,4 @@ Also a WebDeveloper\<T>\, specializing in Node.js :computer:
 
 ![Mateus' github stats](https://github-readme-stats.vercel.app/api?username=mateusmlo&theme=synthwave&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmlo&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=mateusmlo&color=ff69b4)
