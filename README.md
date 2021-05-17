@@ -1,4 +1,4 @@
-## 🙋 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá,+seja+bem-vindo!;Hello+there!+Welcome!&size=22)](https://git.io/typing-svg) 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá,+seja+bem-vindo!;Hello+there!+Welcome!&size=22)](https://git.io/typing-svg) 
 ![](https://komarev.com/ghpvc/?username=mateusmlo&color=ff69b4)
 
 
