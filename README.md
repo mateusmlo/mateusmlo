@@ -11,7 +11,6 @@ Also a WebDeveloper\<T> specializing in Cloud Computing, Back-end :computer: and
 * **Lives in**: São Paulo, BR
 * **Stacks**: { \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: NodeJS(Express, Nest), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **microservices**: Redis, Bull, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(mongodb) || SQL(postgres, sqlite, mysql), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST || GraphQL, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(class, functional(hooks)), \
