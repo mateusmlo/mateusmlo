@@ -10,10 +10,10 @@ I'm a tech junkie who loves to learn, code and discover new things every day! \
 * **Age**: 25
 * **Lives in**: São Paulo, BR
 * **Stacks**: { \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: NodeJS(Express, Nest), \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: NodeJS(Express, Nest.js), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(mongodb) || SQL(postgres, sqlite, mysql), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST || GraphQL, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(class, functional), \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(class, functional), Sass, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: AWS, Nest.js, React \
  }
 
