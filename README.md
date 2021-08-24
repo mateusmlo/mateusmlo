@@ -29,3 +29,7 @@ I'm a tech junkie who loves to learn, code and discover new things every day! \
 
 ![Mateus' github stats](https://github-readme-stats.vercel.app/api?username=mateusmlo&theme=synthwave&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmlo&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+## Badges
+
+<img src="https://user-images.githubusercontent.com/79534537/130526621-667ca50a-35b5-4653-b8e8-b6d96fd4b357.png" alt="Alura back-end challange badge" width="250"/>
