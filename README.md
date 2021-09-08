@@ -14,7 +14,7 @@ I'm a tech junkie who loves to learn, code and discover new things every day! \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(mongodb) || SQL(postgres, sqlite, mysql), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST || GraphQL, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(class, functional), CSS(Bootstrap, Bulma), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **devOps**: Docker(build, compose), AWS(EC2, ECS), \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **micro**: Docker(build, compose), AWS(EC2, ECS), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: AWS, Nest.js, golang \
  }
 
