@@ -20,8 +20,7 @@ I'm a tech junkie who loves to learn, code and discover new things every day! \
 
 ## Funfacts
 * This document is always a WIP, expect to see something new every once in a while.
-* I know lots of things on both front and back-end, but I do not aim to be full-stack and my current technical knowledge is far ahead of the practical. This is changing day by day however.
-* I love functional programming and try to apply concepts whenever possible; expect to see immutable structures and zero *for loops* in my codes.
+* I love functional programming and try to apply concepts whenever possible; expect to see immutable structures and/or zero *for loops* in my codes.
 * :beer:, :tea: or :coffee: will always be on my desk. Not always at the same time.
 * Sometimes I write stuff on [My blog](http://mmlocafe.web-blog.tech/) in either PT-BR || EN about mental health, personal stuff and tech.
 * :calling: You can find me @: [Telegram](https://t.me/mateusmlo), Discord @ Bocchi#0681, or look at the sidebar for a few more places.
