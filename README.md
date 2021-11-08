@@ -7,7 +7,7 @@ I'm a tech junkie who loves to learn, code and discover new things every day! \
 
 ## About me
 * **Name**: Mateus Oliveira
-* **Age**: 25
+* **Age**: 26
 * **Lives in**: São Paulo, BR
 * **Stacks**: { \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **langs**: JS && Golang, \
