@@ -3,20 +3,20 @@
 
 
 I'm a tech junkie who loves to learn, code and discover new things every day! \
-:computer: Also a WebDeveloper\<T> specializing in Back-end Development with general Front-end knowledge.
+:computer: Also a WebDeveloper\<T> specializing in Back-end Development with general Front-end and Cloud skills.
 
 ## About me
 * **Name**: Mateus Oliveira
 * **Age**: 26
 * **Lives in**: São Paulo, BR
 * **Stacks**: { \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **langs**: JS && Golang, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: NodeJS(Express, Nest.js), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(mongodb) || SQL(postgres, sqlite, mysql), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST && GraphQL, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **langs**: JS, Golang, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: NodeJS(Express, Nest.js), golang(*beego, *chi) \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(mongodb, Redis) || SQL(postgres, sqlite, mysql), \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST, GraphQL, WebSockets, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(class, functional), CSS(Bootstrap, Bulma), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **ops**: Docker(build, compose), AWS(EC2, ECS), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: Nest.js, golang \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: Nest.js, Golang \
  }
 
 ## Funfacts
