@@ -25,7 +25,7 @@ I'm a tech junkie who loves to learn, code and discover new things every day! \
 * I'm totally capable of making my way through a project written in a language I'm not used to, provided good code readability and documentation. Most existing projects have patterns that can be extended or reproduced without a deep knowledge, hence I'm not afraid to work with languages I didn't mention here (of course there are exceptions, PHP or Java will make me cry). My interest in golang started like this, by the way.
 * I love functional programming and try to apply concepts whenever possible/applicable.
 * :beer:, :tea: or :coffee: will always be on my desk. Not always at the same time.
-* :calling: You can find me @: [Telegram](https://t.me/mateusmlo), Discord @ Bocchi#0681, or look at the sidebar for a few more places.
+* :calling: You can find me @: [Telegram](https://t.me/mmlo95), Discord @ Bocchi#0681, or look at the sidebar for a few more places.
 
 ## Stats
 
