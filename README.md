@@ -16,8 +16,8 @@ I'm a tech junkie who loves to learn, code and discover new things every day! \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST, GraphQL, WebSockets, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(class, functional), CSS(Bootstrap, Bulma), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **ops**: Docker, GitHub Actions, a bit of shell, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: Nest.js, Golang \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **plansFor2k22**: gRPC, automated tests, AWS, ...more
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: Nest.js, Golang, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **plansFor2k22**: gRPC, automated tests, AWS, ...more \
  }
 
 ## Funfacts
