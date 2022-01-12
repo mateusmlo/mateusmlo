@@ -2,8 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=mateusmlo&color=ff69b4)
 
 
-I'm a tech junkie who loves to learn, code and discover new things every day! \
-:computer: Also a WebDeveloper\<T> specializing in Back-end Development with general Front-end and Cloud skills.
+I'm a tech junkie who loves to code, learn new things every day and listen to music. \
+:computer: Also a WebDeveloper\<Back-end> with general (and good) Front-end skills.
 
 ## About me
 * **Name**: Mateus Oliveira
