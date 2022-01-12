@@ -10,19 +10,18 @@ I'm a tech junkie who loves to learn, code and discover new things every day! \
 * **Age**: 26
 * **Lives in**: São Paulo, BR
 * **Stacks**: { \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **langs**: JS, Golang, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: NodeJS(Express, Nest.js), golang(*beego, *chi) \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **langs**: JS(advanced), Golang(intermediary), \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: Express, NestJS, beego \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(mongodb, Redis) || SQL(postgres, sqlite, mysql), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST, GraphQL, WebSockets, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(class, functional), CSS(Bootstrap, Bulma), \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(class, functional), Redux, CSS(Bootstrap, Bulma), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **ops**: Docker, GitHub Actions, a bit of shell, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: Nest.js, Golang, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **plansFor2k22**: gRPC, automated tests, AWS, ...more \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: Nest.js, golang, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **plansFor2022**: gRPC, testing, AWS, master Node.js, ...more \
  }
 
 ## Funfacts
 * This document is always a WIP, expect to see something new every once in a while.
-* I do know a fair bit of Python but I do not plan to dive deep into it anytime soon, unless it's required for a project.
 * I'm totally capable of making my way through a project written in a language I'm not used to, provided good code readability and documentation. Most existing projects have patterns that can be extended or reproduced without a deep knowledge, hence I'm not afraid to work with languages I didn't mention here (of course there are exceptions, PHP or Java will make me cry). My interest in golang started like this, by the way.
 * I love functional programming and try to apply concepts whenever possible/applicable.
 * :beer:, :tea: or :coffee: will always be on my desk. Not always at the same time.
