@@ -10,7 +10,7 @@ I'm a tech junkie who loves to code, learn new things every day and listen to mu
 * **Age**: 26
 * **Lives in**: São Paulo, BR
 * **Stacks**: { \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **langs**: JS(advanced), Golang(intermediary), \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **langs**: JS(advanced), Golang(basic), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: Express, NestJS, beego, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(mongodb, Redis) || SQL(postgres, sqlite, mysql), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST, GraphQL, WebSockets, \
