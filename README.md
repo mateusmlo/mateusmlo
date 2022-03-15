@@ -1,11 +1,12 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá,+seja+bem-vindo!;Hello+there!+Welcome!&size=22)](https://git.io/typing-svg) 
 ![](https://komarev.com/ghpvc/?username=mateusmlo&color=ff69b4)
 
-
-I'm a tech junkie who loves to code, learn new things every day and listen to music. \
+I'm a tech lover who loves to code, learn new things every day and listen to music. \
 :computer: Also a WebDeveloper\<Back-end> with general (and good) Front-end skills.
 
-## About me
+<img align="right" src="https://user-images.githubusercontent.com/13263031/158471939-34ea7390-7332-42f9-8839-0a957d5be4af.png" width="400" />
+
+## About me 
 * **Name**: Mateus Oliveira
 * **Age**: 26
 * **Lives in**: São Paulo, BR
@@ -18,7 +19,8 @@ I'm a tech junkie who loves to code, learn new things every day and listen to mu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **ops**: Docker, GitHub Actions, a bit of shell, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: Nest.js, golang, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **plansFor2022**: gRPC, testing, AWS, master Node.js, ...more \
- }
+ } 
+ 
 
 ## Funfacts
 * This document is always a WIP, expect to see something new every once in a while.
@@ -33,6 +35,6 @@ I'm a tech junkie who loves to code, learn new things every day and listen to mu
 
 ## Badges
 
-<img src="https://user-images.githubusercontent.com/79534537/130526621-667ca50a-35b5-4653-b8e8-b6d96fd4b357.png" alt="Alura back-end challange badge" width="200"/> <img src="https://user-images.githubusercontent.com/13263031/155534008-2c98ac32-2987-427d-b47d-751362bc893b.png" alt="Alura back-end challenge 2 badge" width="170"/>
+<img src="https://user-images.githubusercontent.com/79534537/130526621-667ca50a-35b5-4653-b8e8-b6d96fd4b357.png" alt="Alura back-end challange badge" title="Alura back-end challange badge" width="200"/> <img src="https://user-images.githubusercontent.com/13263031/155534008-2c98ac32-2987-427d-b47d-751362bc893b.png" alt="Alura back-end challenge 2 badge" alt="Alura back-end challange #2 badge" width="170"/>
 
 
