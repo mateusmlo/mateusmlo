@@ -27,13 +27,12 @@ I'm a tech junkie who loves to code, learn new things every day and listen to mu
 * :beer:, :tea: or :coffee: will always be on my desk. Not always at the same time.
 * :calling: You can find me @: [Telegram](https://t.me/mmlo95), Discord @ Bocchi#0681, or look at the sidebar for a few more places.
 
-## Stats
 
-![Mateus' github stats](https://github-readme-stats.vercel.app/api?username=mateusmlo&theme=synthwave&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmlo&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Mateus' github stats](https://github-readme-stats.vercel.app/api?username=mateusmlo&show_icons=true&count_private=true&line_height=21&theme=panda&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmlo&layout=compact&theme=panda&hide=Handlebars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Badges
 
-<img src="https://user-images.githubusercontent.com/79534537/130526621-667ca50a-35b5-4653-b8e8-b6d96fd4b357.png" alt="Alura back-end challange badge" width="250"/> <img src="https://user-images.githubusercontent.com/13263031/155534008-2c98ac32-2987-427d-b47d-751362bc893b.png" alt="Alura back-end challenge 2 badge" width="240"/>
+<img src="https://user-images.githubusercontent.com/79534537/130526621-667ca50a-35b5-4653-b8e8-b6d96fd4b357.png" alt="Alura back-end challange badge" width="200"/> <img src="https://user-images.githubusercontent.com/13263031/155534008-2c98ac32-2987-427d-b47d-751362bc893b.png" alt="Alura back-end challenge 2 badge" width="170"/>
 
 
