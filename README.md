@@ -1,5 +1,7 @@
+
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá,+seja+bem-vindo!;Hello+there!+Welcome!&size=22)](https://git.io/typing-svg) 
-![](https://komarev.com/ghpvc/?username=mateusmlo&color=ff69b4)
+<img align="right" src="https://komarev.com/ghpvc/?username=mateusmlo&color=ff69b4" alt="visits counter" />
+
 
 I'm a tech lover who loves to code, learn new things every day and listen to music. \
 :computer: Also a WebDeveloper\<Back-end> with general (and good) Front-end skills.
