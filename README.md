@@ -37,6 +37,6 @@ I'm a tech lover who loves to code, learn new things every day and listen to mus
 
 ## Badges
 
-<img src="https://user-images.githubusercontent.com/79534537/130526621-667ca50a-35b5-4653-b8e8-b6d96fd4b357.png" alt="Alura back-end challange badge" title="Alura back-end challange badge" width="200"/> <img src="https://user-images.githubusercontent.com/13263031/155534008-2c98ac32-2987-427d-b47d-751362bc893b.png" alt="Alura back-end challenge 2 badge" title="Alura back-end challange 2 badge" width="170"/>
+<img src="https://user-images.githubusercontent.com/79534537/130526621-667ca50a-35b5-4653-b8e8-b6d96fd4b357.png" alt="Alura back-end challange badge" title="Alura back-end challange badge" width="200"/> <img src="https://user-images.githubusercontent.com/13263031/155534008-2c98ac32-2987-427d-b47d-751362bc893b.png" alt="Alura back-end challenge 2 badge" title="Alura back-end challange #2 badge" width="170"/>
 
 
