@@ -11,7 +11,7 @@ I'm a tech lover who loves to code, learn new things every day and listen to mus
 ## About me 
 * **Name**: Mateus Oliveira
 * **Age**: 26
-* **Lives in**: São Paulo/SP
+* **Level**: 2 (years)
 * **Techs**: { \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **langs**: JS(advanced), Golang(mid), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: Express, NestJS, beego, \
