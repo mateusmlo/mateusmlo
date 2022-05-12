@@ -20,7 +20,7 @@ I'm a tech lover who loves to code, learn new things every day and listen to mus
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(class, functional), Redux, CSS(Bootstrap, Bulma), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **ops**: Docker, a bit of shell and UNIX stuff, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: Nest.js, golang, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **plansFor2022**: gRPC, testing, AWS, master Node.js, ...more \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **plansFor2022**: testing, AWS, master Node.js, ...more \
  } 
  
 
