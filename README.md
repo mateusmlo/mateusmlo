@@ -18,15 +18,15 @@ I'm a tech lover who loves to code, learn new things every day and listen to mus
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(mongodb, Redis) || SQL(postgres, sqlite, mysql), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST, GraphQL, WebSockets, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(class, functional), Redux, CSS(Bootstrap, Bulma), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **ops**: Docker(compose), a bit of AWS, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: Nest.js, golang, devOps(GitLab), rabbitMQ, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **plansFor2022**: AWS, master Node.js, ...more \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: Nest.js, devOps(GitLab), rabbitMQ, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **hasKnowledge**: Docker, unit tests(jest), Redis, design patterns, cleanCode, functional and OOP core concepts, ...more,  \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **plansFor2022**: AWS, microservices, CI/CD, e2e tests \
  } 
  
 
 ## Funfacts
 * This document is always a WIP, expect to see something new every once in a while.
-* I'm totally capable of making my way through a project written in a language I'm not used to, provided good code readability and documentation. Most existing projects have patterns that can be extended or reproduced without a deep knowledge, hence I'm not afraid to work with languages I didn't mention here (of course there are exceptions, PHP or Java will make me cry). My interest in golang started like this, by the way.
+* I'm totally capable of making my way through a project written in a language I'm not used to, provided good code readability and documentation. Most existing projects have patterns that can be extended or reproduced without a deep knowledge, hence I'm not afraid to work with languages I didn't mention here (of course there are exceptions, legacy PHP or Java will make me cry). My interest in golang started like this, by the way.
 * :beer:, :tea: or :coffee: will always be on my desk. Not always at the same time.
 * :calling: You can find me @: [Telegram](https://t.me/mmlo95), Discord @ Bocchi#0681, or look at the sidebar for a few more places.
 
