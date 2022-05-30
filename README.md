@@ -15,7 +15,7 @@ I'm a tech lover who loves to code, learn new things every day and listen to mus
 * **Techs**: { \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **langs**: JS(advanced), Golang(mid), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: Express, NestJS, beego, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(mongodb, Redis) || SQL(postgres, sqlite, mysql), \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(mongodb) || SQL(postgres, sqlite, mysql), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST, GraphQL, WebSockets, \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(class, functional), Redux, CSS(Bootstrap, Bulma), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: Nest.js, devOps(GitLab), rabbitMQ, \
