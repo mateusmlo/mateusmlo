@@ -10,7 +10,7 @@ I'm a tech lover who loves to code, learn new things every day and listen to mus
 
 ## About me 
 * **Name**: Mateus Oliveira
-* **Age**: 26
+* **Age**: 27
 * **Level**: 2 (years)
 * **Techs**: { \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **langs**: JS(advanced), Golang(mid), \
