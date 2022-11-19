@@ -8,21 +8,21 @@ I'm a tech lover who loves to code, learn new things every day and listen to mus
 
 <img align="right" src="https://user-images.githubusercontent.com/13263031/158471939-34ea7390-7332-42f9-8839-0a957d5be4af.png" width="400" />
 
-## About me 
-* **Name**: Mateus Oliveira
-* **Age**: 27
-* **Level**: 2 (years)
-* **Techs**: { \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **langs**: JS(advanced), Golang(mid), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **backEnd**: Express, NestJS, beego, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **db**: NoSQL(mongodb) || SQL(postgres, mysql), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **api**: REST, GraphQL, WebSockets, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **frontEnd**: React(class, functional), Redux, CSS(Bootstrap, Bulma), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **isLearning**: Nest.js, devOps(GitLab), rabbitMQ, \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **hasKnowledge**: Docker, unit tests(jest), Redis, design patterns, cleanCode, functional and OOP core concepts, ...more,  \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **plansFor2022**: AWS, microservices, CI/CD, e2e tests \
+## About me
+```json
+"name": "Mateus Oliveira",
+"age": 27,
+"level": 3, 
+"techs": { 
+	"langs": ["JS(advanced)", "Golang(mid)"], 
+	"backEnd": ["Express", "NestJS", "beego"], 
+	"db": ["NoSQL(mongodb)", "SQL(postgres, mysql)"], 
+	"api": ["REST", "GraphQL", "WebSockets"], 
+	"frontEnd": ["React(class, functional)", "Redux", "Context API", "CSS(Bootstrap, Bulma)"], 
+	"isLearning": ["microsservices", "SOA", "rabbitMQ", "leadership"], 
+	"hasKnowledge": ["Docker", "unit tests(jest)", "Redis", "design patterns", "cleanCode", "functional and OOP core concepts", "more..."],  
  } 
- 
+ ```
 
 ## Funfacts
 * This document is always a WIP, expect to see something new every once in a while.
