@@ -18,9 +18,22 @@ I'm a tech lover who loves to code, learn new things every day and listen to mus
 	"backEnd": ["Express", "NestJS", "beego"], 
 	"db": ["NoSQL(mongodb)", "SQL(postgres, mysql)"], 
 	"api": ["REST", "GraphQL", "WebSockets"], 
-	"frontEnd": ["React(class, functional)", "Redux", "Context API", "CSS(Bootstrap, Bulma)"], 
-	"isLearning": ["microsservices", "SOA", "rabbitMQ", "leadership"], 
-	"hasKnowledge": ["Docker", "unit tests(jest)", "Redis", "design patterns", "cleanCode", "functional and OOP core concepts", "more..."],  
+	"frontEnd": [
+		"React(class, functional)", 
+		"Redux", 
+		"CSS(Bootstrap, Bulma)"
+	], 
+	"isLearning": ["microsservices", "SOA", "AWS"], 
+	"hasKnowledge": [
+		"Docker",
+		"Linux(WSL)",
+		"unit tests(jest)", 
+		"Redis", 
+		"design patterns", 
+		"cleanCode", 
+		"functional and OOP core concepts", 
+		"more..."
+	],  
  } 
  ```
 
