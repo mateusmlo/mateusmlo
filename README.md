@@ -12,18 +12,18 @@ I'm a tech lover who loves to code, learn new things every day and listen to mus
 ```json
 "name": "Mateus Oliveira",
 "age": 27,
-"level": 3, 
+"level": 4, 
 "techs": { 
 	"langs": ["JS(advanced)", "Golang(mid)"], 
 	"backEnd": ["Express", "NestJS", "beego"], 
 	"db": ["NoSQL(mongodb)", "SQL(postgres, mysql)"], 
-	"api": ["REST", "GraphQL", "WebSockets"], 
+	"api": ["REST", "WebSockets"], 
 	"frontEnd": [
 		"React(class, functional)", 
 		"Redux", 
 		"CSS(Bootstrap, Bulma)"
 	], 
-	"isLearning": ["microsservices", "SOA", "AWS"], 
+	"isLearning": ["microsservices", "message broker", "gRPC"], 
 	"hasKnowledge": [
 		"Docker",
 		"Linux(WSL)",
@@ -31,7 +31,8 @@ I'm a tech lover who loves to code, learn new things every day and listen to mus
 		"Redis", 
 		"design patterns", 
 		"cleanCode", 
-		"functional and OOP core concepts", 
+		"functional and OOP",
+		"New Relic",
 		"more..."
 	],  
  } 
