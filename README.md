@@ -11,7 +11,7 @@ I'm a tech lover who loves to code, learn new things every day and listen to mus
 ## About me
 ```json
 "name": "Mateus Oliveira",
-"age": 27,
+"age": 28,
 "level": 4, 
 "techs": { 
 	"langs": ["JS(advanced)", "Golang(mid)"], 
