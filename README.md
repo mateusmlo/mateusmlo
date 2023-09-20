@@ -15,7 +15,7 @@ I'm a tech lover who loves to code, learn new things every day and listen to mus
 "level": 4, 
 "techs": { 
 	"langs": ["JS(advanced)", "Golang(mid)"], 
-	"backEnd": ["Express", "NestJS", "beego"], 
+	"backEnd": ["Express", "NestJS", "beego", "gin"], 
 	"db": ["NoSQL(mongodb)", "SQL(postgres, mysql)"], 
 	"api": ["REST", "WebSockets"], 
 	"frontEnd": [
