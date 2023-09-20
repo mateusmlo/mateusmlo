@@ -23,7 +23,7 @@ I'm a tech lover who loves to code, learn new things every day and listen to mus
 		"Redux", 
 		"CSS(Bootstrap, Bulma)"
 	], 
-	"isLearning": ["microsservices", "message broker", "gRPC"], 
+	"isLearning": ["microsservices", "message broker", "golang"], 
 	"hasKnowledge": [
 		"Docker",
 		"Linux(WSL)",
