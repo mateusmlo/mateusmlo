@@ -3,7 +3,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=mateusmlo&color=ff69b4" alt="visits counter" />
 
 
-I'm a tech lover who loves to code, learn new things every day and listen to music. \
+I'm a coffee lover who loves to code, learn new things every day and listen to music. \
 :computer: Also a WebDeveloper\<Back-end> with general (and good) Front-end skills.
 
 <img align="right" src="https://user-images.githubusercontent.com/13263031/158471939-34ea7390-7332-42f9-8839-0a957d5be4af.png" width="350" />
