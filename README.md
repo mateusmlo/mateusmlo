@@ -14,16 +14,26 @@ I'm a tech lover who loves to code, learn new things every day and listen to mus
 "age": 28,
 "level": 4, 
 "techs": { 
-	"langs": ["JS(advanced)", "Golang(mid)"], 
-	"backEnd": ["Express", "NestJS", "beego", "gin"], 
+	"langs": ["JS(advanced)", "Go(mid)"],
+	"frontEnd": [
+		"React", 
+		"Redux", 
+		"CSS(Bootstrap, Bulma, MUI)",
+		"Next.js",
+	], 
+	"backEnd": [
+		"golang": {
+			"frameworks": ["gin", "bee"],
+			"libs": ["fx", "gorm", "viper", "stdlib"],
+		},
+		"js": {
+			"frameworks": ["express", "nest"],
+			"libs": ["way too many, really"],
+		}
+	], 
 	"db": ["NoSQL(mongodb)", "SQL(postgres, mysql)"], 
 	"api": ["REST", "WebSockets"], 
-	"frontEnd": [
-		"React(class, functional)", 
-		"Redux", 
-		"CSS(Bootstrap, Bulma)"
-	], 
-	"isLearning": ["microsservices", "message broker", "golang"], 
+	"isLearning": ["microsservices", "message broker"], 
 	"hasKnowledge": [
 		"Docker",
 		"Linux(WSL)",
@@ -33,7 +43,7 @@ I'm a tech lover who loves to code, learn new things every day and listen to mus
 		"cleanCode", 
 		"functional and OOP",
 		"New Relic",
-		"more..."
+		"...even more"
 	],  
  } 
  ```
