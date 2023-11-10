@@ -23,12 +23,10 @@ I'm a coffee lover who loves to code, learn new things every day and listen to m
 	], 
 	"backEnd": [
 		"golang": {
-			"frameworks": ["gin", "bee"],
-			"libs": ["fx", "gorm", "viper", "stdlib"],
+			"frameworks": ["gin", "bee"]
 		},
 		"js": {
-			"frameworks": ["express", "nest"],
-			"libs": ["way too many, really"],
+			"frameworks": ["express", "nest"]
 		}
 	], 
 	"db": ["NoSQL(mongodb)", "SQL(postgres, mysql)"], 
