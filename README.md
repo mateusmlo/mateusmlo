@@ -29,7 +29,7 @@ I'm a coffee lover who loves to code, learn new things every day and listen to m
 			"frameworks": ["express", "nest"]
 		}
 	], 
-	"db": ["MongoDB", "PostgreSQL", MySQL"], 
+	"db": ["MongoDB", "PostgreSQL", "MySQL"], 
 	"api": ["REST", "WebSockets", "GraphQL"], 
 	"isLearning": ["microsservices", "AWS"], 
 	"hasKnowledge": [
