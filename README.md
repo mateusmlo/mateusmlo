@@ -14,7 +14,7 @@ I'm a coffee lover who loves to code, learn new things every day and listen to m
 "age": 28,
 "level": 4, 
 "techs": { 
-	"langs": ["JS(advanced)", "Go(mid)"],
+	"langs": ["JS", "Golang"],
 	"frontEnd": [
 		"React", 
 		"Redux", 
@@ -29,7 +29,7 @@ I'm a coffee lover who loves to code, learn new things every day and listen to m
 			"frameworks": ["express", "nest"]
 		}
 	], 
-	"db": ["NoSQL(mongodb)", "SQL(postgres, mysql)"], 
+	"db": ["MongoDB", "PostgreSQL", MySQL"], 
 	"api": ["REST", "WebSockets", "GraphQL"], 
 	"isLearning": ["microsservices", "AWS"], 
 	"hasKnowledge": [
