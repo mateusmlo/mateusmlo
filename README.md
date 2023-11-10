@@ -4,7 +4,7 @@
 
 
 I'm a coffee lover who loves to code, learn new things every day and listen to music. \
-:computer: Also a WebDeveloper\<Back-end> with general (and good) Front-end skills.
+:computer: Also a WebDeveloper\<Back-end> with very good Front-end skills.
 
 <img align="right" src="https://user-images.githubusercontent.com/13263031/158471939-34ea7390-7332-42f9-8839-0a957d5be4af.png" width="350" />
 
@@ -32,17 +32,16 @@ I'm a coffee lover who loves to code, learn new things every day and listen to m
 		}
 	], 
 	"db": ["NoSQL(mongodb)", "SQL(postgres, mysql)"], 
-	"api": ["REST", "WebSockets"], 
-	"isLearning": ["microsservices", "message broker"], 
+	"api": ["REST", "WebSockets", "GraphQL"], 
+	"isLearning": ["microsservices", "AWS"], 
 	"hasKnowledge": [
 		"Docker",
-		"Linux(WSL)",
+		"Linux",
 		"unit tests(jest)", 
 		"Redis", 
 		"design patterns", 
 		"cleanCode", 
 		"functional and OOP",
-		"New Relic",
 		"...even more"
 	],  
  } 
