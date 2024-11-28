@@ -11,7 +11,7 @@ I'm a coffee lover who loves to code, learn new things every day and listen to m
 ## About me
 ```json
 "name": "Mateus Oliveira",
-"age": 28,
+"age": 29,
 "level": 4, 
 "techs": { 
 	"langs": ["JS", "Golang"],
@@ -20,6 +20,7 @@ I'm a coffee lover who loves to code, learn new things every day and listen to m
 		"Redux", 
 		"CSS(Bootstrap, Bulma, MUI)",
 		"Next.js",
+		"Angular"
 	], 
 	"backEnd": [
 		"golang": {
@@ -31,16 +32,14 @@ I'm a coffee lover who loves to code, learn new things every day and listen to m
 	], 
 	"db": ["MongoDB", "PostgreSQL", "MySQL"], 
 	"api": ["REST", "WebSockets", "GraphQL"], 
-	"isLearning": ["microsservices", "AWS"], 
 	"hasKnowledge": [
 		"Docker",
-		"Linux",
-		"unit tests(jest)", 
+		"Linux", 
 		"Redis", 
 		"design patterns", 
-		"cleanCode", 
+		"clean code", 
 		"functional and OOP",
-		"...even more"
+		"...lots more"
 	],  
  } 
  ```
